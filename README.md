@@ -22,7 +22,7 @@ System.out.println(a);
 
 >原因就是 a 定义在 if 中，作用域也仅仅于此，出了这里便无效了。
 
->而要达到：在条件语句中得到某个值，然后在外面打印。可以这样实现：
+>而要做到：在条件语句中得到某个值，然后在外面打印。可以这样实现：
 
 >```
 int a;
@@ -58,3 +58,15 @@ System.out.println(a);
 >>类似的，也有`Double.parseDouble(String s)`。
 
 #条件判断
+
+>首先放比较标准的代码:
+
+>>```        
+        if(expression){
+            //code here
+        }else if(expreession){
+            //code here
+        }else{
+            //code here
+        }
+```
