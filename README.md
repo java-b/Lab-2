@@ -35,33 +35,33 @@ System.out.println(a);
 
 #字符串操作
 
->##字符串截取
+##字符串截取
 
->>常用的`字符串截取`操作调用的函数为 `s.substring(int beginIndex, int endIndex)`,
+>常用的`字符串截取`操作调用的函数为 `s.substring(int beginIndex, int endIndex)`,
 
->>效果为截取从 beginIndex 至 endIndex 的字符串，包括beginIndex的字符，不包括endIndex的字符。
+>效果为截取从 beginIndex 至 endIndex 的字符串，包括beginIndex的字符，不包括endIndex的字符。
 
->>比如：` String s = "12345";System.out.println(s.substring(1,3));`，打印结果为 `23`.
+>比如：` String s = "12345";System.out.println(s.substring(1,3));`，打印结果为 `23`.
 
->>即`[beginIndex,endIndex)`,左开右闭。
+>即`[beginIndex,endIndex)`,左开右闭。
 
->>如果是要获得`某个特定位置`的字符，也可以使用`s.charAt(int index)`。
+>如果是要获得`某个特定位置`的字符，也可以使用`s.charAt(int index)`。
 
->##字符串转换
+##字符串转换
 
->>比如我们现在得到一个数字组成的字符串`12345`,如何将他转换成数字呢？
+>比如我们现在得到一个数字组成的字符串`12345`,如何将他转换成数字呢？
 
->>我们可以通过刚才讲述的字符串截取逐个获取数字，然后拼凑出整个数字。
+>我们可以通过刚才讲述的字符串截取逐个获取数字，然后拼凑出整个数字。
 
->>而在我们确定这是一个整数的前提下，我们可以调用`Integer.parseInt(String s)`。
+>而在我们确定这是一个整数的前提下，我们可以调用`Integer.parseInt(String s)`。
 
->>类似的，也有`Double.parseDouble(String s)`。
+>类似的，也有`Double.parseDouble(String s)`。
 
 #条件判断
 
 >首先放比较标准的代码:
 
->>```        
+>```        
         if(expression){
             //code here
         }else if(expreession){
@@ -77,7 +77,7 @@ System.out.println(a);
 
 >比如:
 
->>```
+>```
 if(expression)System.out.println("just one line");
 ```
 >是可以运行的。
