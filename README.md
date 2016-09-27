@@ -53,6 +53,8 @@ System.out.println(a);
 
 >>我们可以通过刚才讲述的字符串截取逐个获取数字，然后拼凑出整个数字。
 
->>而在我们确定这是一个整数的前提下，我们可以调用`Integer.parseInt(String s)'。
+>>而在我们确定这是一个整数的前提下，我们可以调用`Integer.parseInt(String s)`。
 
->>
+>>类似的，也有`Double.parseDouble(String s)`。
+
+#条件判断
