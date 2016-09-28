@@ -94,6 +94,8 @@ if(expression)System.out.println("just one line");
 
 >2.操作符两边需留出一个空格。
 
+>3.除法结果四舍五入保留整数
+
 ##输入样例
 
 `1 + 1`
