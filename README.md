@@ -96,6 +96,8 @@ if(expression)System.out.println("just one line");
 
 >3.除法结果四舍五入保留整数
 
+>4.Scanner 从控制台获取字符串输入需要调用 next()而非nextString()
+
 ##输入样例
 
 `1 + 1`
