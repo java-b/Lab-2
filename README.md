@@ -86,7 +86,7 @@ if(expression)System.out.println("just one line");
 
 ##要求
 
->给定一个字符串'x operator y'，x和y是9以内（包括9）的正整数，operator是+,-,\*,/中的一种,打印其结果。
+>给定一个字符串'x operator y'，x和y是9以内（包括9）的非负整数，operator是+,-,\*,/中的一种,打印其结果。
 
 ##提示
 
