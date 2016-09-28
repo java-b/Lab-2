@@ -43,7 +43,7 @@ System.out.println(a);
 
 >比如：` String s = "12345";System.out.println(s.substring(1,3));`，打印结果为 `23`.
 
->即`[beginIndex,endIndex)`,左开右闭。
+>即`[beginIndex,endIndex)`,左开右闭（按照国际管理，字符串的下标应该是从0开始，当字符串的下标以0开始时，应该是左闭右开）。
 
 >如果是要获得`某个特定位置`的字符，也可以使用`s.charAt(int index)`。
 
