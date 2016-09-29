@@ -64,7 +64,11 @@ System.out.println(a);
 
 >```
 String s = "123";
-Integer.parseInt
+int result = Integer.parseInt(s);
+System.out.println(result);
+```
+
+>输出结果为 `123`。
 
 #条件判断
 
