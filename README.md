@@ -109,7 +109,7 @@ if(expression)System.out.println("just one line");
 
 >3.除法结果四舍五入保留整数
 
->4.Scanner 从控制台获取字符串输入需要调用 next()而非nextString()
+>4.Scanner 从控制台获取字符串输入可以调用 next()或者nextLine(),next()以空格作为分隔；
 
 ##输入样例
 
