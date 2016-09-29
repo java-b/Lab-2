@@ -5,7 +5,7 @@
 
 > [学习使用Intellij IDEA](https://github.com/java-b/Forum/blob/master/IDEA.md)
 
-> [学习查看Java Documentation](https://docs.oracle.com/javase/8/docs/api/)。（**不推荐**：在线中文文档在[这里](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)，FTP 上也有下载。
+> [学习查看Java Documentation](https://docs.oracle.com/javase/8/docs/api/)。（**不推荐**：在线中文文档在[这里](http://tool.oschina.net/apidocs/apidoc?api=jdk-zh)，FTP 上也有下载。）
 
 
 #作用域
