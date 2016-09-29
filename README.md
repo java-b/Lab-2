@@ -1,11 +1,11 @@
 #Lab2
 #课程目标：
 
->首先了解作用域的概念，然后学习字符串的操作以及条件判断的使用，最后利用所学完成一个小程序。
+> 首先了解作用域的概念，然后学习字符串的操作以及条件判断的使用，最后利用所学完成一个小程序。
 
-#学习使用Intellij IDEA
-大家可以尝试使用 IDEA 来避免遇到编码问题，同时获得更强大的功能。
-https://github.com/java-b/Forum/blob/master/IDEA.md
+> [学习使用Intellij IDEA](https://github.com/java-b/Forum/blob/master/IDEA.md)
+
+> [学习查看Java Documentation](https://docs.oracle.com/javase/8/docs/api/)
 
 
 #作用域
