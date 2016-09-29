@@ -3,6 +3,9 @@
 
 >首先了解作用域的概念，然后学习字符串的操作以及条件判断的使用，最后利用所学完成一个小程序。
 
+#学习使用Intellij IDEA
+大家可以尝试使用 IDEA 来避免遇到编码问题，同时获得更强大的功能。
+https://github.com/java-b/Forum/blob/master/IDEA.md
 
 
 #作用域
@@ -56,6 +59,12 @@ System.out.println(a);
 >而在我们确定这是一个整数的前提下，我们可以调用`Integer.parseInt(String s)`。
 
 >类似的，也有`Double.parseDouble(String s)`。
+
+>样例:
+
+>```
+String s = "123";
+Integer.parseInt
 
 #条件判断
 
